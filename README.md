@@ -15,16 +15,11 @@ This is an android application that brings various healthcare services into the 
 
 ## DEPENDENCIES
 `   implementation 'com.google.firebase:firebase-auth:16.0.5'
-
     implementation 'com.google.firebase:firebase-database:16.0.4'
-    
     implementation fileTree(dir: 'libs', include: ['*.jar'])
-    
     implementation 'com.android.support.constraint:constraint-layout:1.1.3'
-    
     androidTestImplementation('com.android.support.test.espresso:espresso-core:2.2.2', {
         exclude group: 'com.android.support', module: 'support-annotations'})
-    
     implementation 'androidx.legacy:legacy-support-v4:1.0.0'
     
     implementation 'androidx.appcompat:appcompat:1.1.0'
