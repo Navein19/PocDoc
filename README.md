@@ -48,10 +48,8 @@ This is an android application that brings various healthcare services into the 
 
 ## ANDROID SDK VERSION: `29`
 
-## SCREENSHOTS OF THE APP:
-<img src='images/signup.jpeg' height='50' weight='30'>
 
-## VIDEO REFERENCE: 
+## VIDEO REFERENCE: (https://www.youtube.com/watch?v=GxTaozprOzs)[https://www.youtube.com/watch?v=GxTaozprOzs]
 
 
 
