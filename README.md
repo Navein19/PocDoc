@@ -3,4 +3,4 @@
 This app is for locating nearby, hospitals, restaurants and gyms and sending notifications based on this.
 
 
-<img src='images/chat.png' height='70dp' width='70dp'><img src='images/hospital-location.png' height='70dp' width='70dp'><img src='images/notification.png' height='70dp' width='70dp'><img src='images/sos.png' height='70dp' width='70dp'>
+<img src='images/chat.png' height='70dp' width='70dp'><img src='images/hospital-location.png' height='70dp' width='70dp'><img src='images/notification.png' height='70dp' width='70dp'><img src='images/ambulance.png' height='70dp' width='70dp'>
