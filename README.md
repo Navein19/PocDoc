@@ -50,7 +50,7 @@ This is an android application that brings various healthcare services into the 
 
 
 ## VIDEO REFERENCE: 
-(https://www.youtube.com/watch?v=GxTaozprOzs)[https://www.youtube.com/watch?v=GxTaozprOzs]
+https://www.youtube.com/watch?v=GxTaozprOzs
 
 
 
