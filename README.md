@@ -13,4 +13,15 @@ This is an android application that brings various healthcare services into the 
 
 <img src='images/ambulance.png' height='30' weight='30'>Immediate Medical Assistantance and ambulance service.
 
+## DEPENDENCIES
+``
+
+## ANDROID SDK VERSION: `29`
+
+## SCREENSHOTS OF THE APP:
+
+## VIDEO REFERENCE: 
+
+
+
 
